@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'ABC Hebrew';
+  src: url('/fonts/ABCHebrew/ABCHebrew.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABC HebrewThin';
+  src: url('/fonts/ABCHebrew/ABCHebrewThin.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABC HebrewHeavy';
+  src: url('/fonts/ABCHebrew/ABCHebrewHeavy.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABC HebrewBold';
+  src: url('/fonts/ABCHebrew/ABCHebrewBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABC HebrewMedium';
+  src: url('/fonts/ABCHebrew/ABCHebrewMedium.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pClass {
+    font-family: 'ABC HebrewBold';
+}
